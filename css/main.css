@@ -1,0 +1,74 @@
+/*Section: danza*/
+
+.bck-danza{
+	background-image: url(../img/dance_1.jpg);
+    height: 480px;
+}
+.text-box{
+	margin-top: 33%;
+    width: 80%;
+}
+
+.b-inscribete{
+	width: 60%;
+    height: 50px;
+    margin-top: 14%;
+    margin-bottom: 14%;
+    font-size: 100%;
+    background-color: #020E1E
+}
+.txt-size{
+	font-size: 500%;
+	padding-bottom: 13%;
+}
+
+/*Section institucional*/
+.bck-img{
+	background-image: url(../img/textura_2.jpg);
+}
+.b-oferta{
+	width: 45%;
+    height: 55px;
+    font-size: 140%;
+}
+.decoration{
+	width: 24%;
+    height: 165px;
+}
+.box p{
+	font-size: 150%;
+}
+/*Section Profesores*/
+.box-instructores {
+    width: 500px;
+    height: 65px;
+    padding-top: 20px;
+    font-size: 20px;
+    position: relative;
+    left: 32%;
+    top: 283px;
+}
+.pic1 {
+    border: solid #192951 2px;
+    height: 350px; 
+    width: 713px;
+    margin: -55px;
+    margin-top: -65px;
+    background-repeat: no-repeat;
+    background-image: url("../img/instructor_4.jpg");
+    background-size: 720px 482px;
+}
+.pic2 {
+    border: solid #192951 2px;
+    margin: 0px;
+    height: 350px;
+    width: 711px;
+    margin-top: -65px;
+    background-repeat: no-repeat;
+    background-image: url("../img/profesor_9.jpg");
+    background-size: 750px 570px;
+}
+.danza{
+	font-family: "Latolight";
+	font-size: 45px;
+}
